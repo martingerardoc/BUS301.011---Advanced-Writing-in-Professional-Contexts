@@ -1,0 +1,13 @@
+Resume Improvement
+VMock
+A service BYU-IDAHO uses to help studenst improve resumes
+    uses artifical intelligence to benchmark resume 
+    provides ways to improve your resume
+
+Videos on how to use the system
+        how to log in to VMock  
+        how to uoload your resume on VMock
+        features to use VMock
+        your resume after implementin vmock feedback
+
+use >vmock to reach a score of 85% or higher in your resume
