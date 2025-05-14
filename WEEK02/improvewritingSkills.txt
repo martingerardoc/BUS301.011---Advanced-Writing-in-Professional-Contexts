@@ -1,0 +1,22 @@
+Use paraller construction
+    Expressions similar in content and funtion should be outwardly similar.
+
+    Mixed forms
+        not parallel
+        Adam likes hiking, cooking and to ride a bicycle
+        Parallel 
+        Adam likes hiking, cooking and riding a bicycle.
+
+    Clauses
+        Not parallel
+        The salesman expected that he would present his product at the meeting, that he would have time to show his slide presentation and that question would be asked by prospective buyers
+        PArallel 
+        The salesman expected that he would present his product at the meeting, that he would have time to show his slide presentation and that prospective buyer would ask him questions.
+
+Keeping realted words together
+The position of the words in a sentence is the principal means of showing their relationship
+
+The subject and principal verb should not be separated by a phrase or clause that can be transferred to the beginning
+    Jhon came over while I was working on my proposal with a box of pizza.
+    vs.
+    Jhon came over with a box of pizza while I was working on my proposal
